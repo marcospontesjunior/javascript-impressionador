@@ -4,7 +4,7 @@ const text2 = `String com Crase`;
 
 const registrarNumero = 22543;
 
-const stringTemplate = `Registrando o número registrado é ${registrarNumero}`; 
+const stringTemplate = `O número registrado é ${registrarNumero}`; 
 // "formatação" especial usar (`) 
 
 console.log(stringTemplate);
