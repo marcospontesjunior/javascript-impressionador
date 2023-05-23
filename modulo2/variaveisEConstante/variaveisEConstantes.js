@@ -5,4 +5,4 @@ console.log(msgTela);
 console.log(idade);
 
 // const é uma variável que é fixa.
-// let é uma variável que pode ser mudade posteriormente.
+// let é uma variável que pode ser mudada posteriormente.
