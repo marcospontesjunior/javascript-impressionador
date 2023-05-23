@@ -1,5 +1,5 @@
 let variavel0 = 'String'; 
-// variável que poderá ser alterada futuramente 
+// var que poderá ser alterada futuramente 
 
 const variavel1 = 'Meu nome é Marcos Pontes Junior e não pode ser alterado';
 // var fixa
