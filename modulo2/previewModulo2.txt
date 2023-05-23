@@ -3,7 +3,7 @@
 ### Variáveis e Tipos de Dados
 
     - Tipos de dados em JavaScript 
-      (string, number, boolean, null, underfined, object, symbol)
-    - Variáveis e constantes em JavaScript
-    - Declaração de Variáveis
-    - Conversão de tipos de dados em JavaScript
+      (string, number, boolean, null, underfined, object, symbol).
+    - Variáveis e constantes em JavaScript.
+    - Declaração de Variáveis.
+    - Conversão de tipos de dados em JavaScript.
