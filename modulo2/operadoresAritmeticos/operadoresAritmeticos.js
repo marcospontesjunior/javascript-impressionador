@@ -22,4 +22,4 @@ console.log(resultado4) // 8
 console.log(resultado5) // 1
 console.log(resultado6) // 2
 console.log(resultado7) // 1
-console.log(text0 + text1) // operadores também funcionam com outros tipos ded dados!
+console.log(text0 + text1) // operadores também funcionam com outros tipos de dados!
