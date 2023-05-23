@@ -4,5 +4,5 @@ let idade = 'Eu tenho 28 anos atualmente';
 console.log(msgTela);
 console.log(idade);
 
-// const é uma variável que é fixa enquanto let é uma variável que pode ser mudade
-// posteriormente.
+// const é uma variável que é fixa.
+// let é uma variável que pode ser mudade posteriormente.
