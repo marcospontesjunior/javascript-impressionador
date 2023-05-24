@@ -1,4 +1,10 @@
-# Proposta e Objetivo do Curso
+# JavaScript Impressionador
+
+### Sobre:
+
+Aqui ficará armazenado exercícios e conteúdos aprendido no curso [JavaScript Impressionador da Hashtag](https://www.hashtagtreinamentos.com/curso-javascript).
+
+### Proposta e Objetivo do Curso:
 
 O JavaScript Impressionador é um treinamento completo, onde você vai aprender
 tudo que precisa saber de JavaScript, começando do absoluto zero mesmo, até
