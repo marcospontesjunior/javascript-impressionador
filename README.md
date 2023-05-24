@@ -1,4 +1,4 @@
-# Curso JavaScript Impressionante
+# JavaScript "Impressionante"
 
 ### Sobre:
 
