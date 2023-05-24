@@ -2,7 +2,7 @@
 
 ### Sobre:
 
-Aqui ficará armazenado exercícios e conteúdos aprendido no curso JavaScript Impressionante!
+Aqui ficará armazenado exercícios e conteúdos aprendido no curso JavaScript "Impressionante"!
 
 ### Proposta e Objetivo do Curso:
 
