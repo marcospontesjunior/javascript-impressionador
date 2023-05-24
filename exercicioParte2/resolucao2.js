@@ -36,7 +36,7 @@ console.log('Resultado do exercício 3');
 
 function calcTemperatura(temperaturaCelsius){
     const temperaturaFarenheit = (9 / 5) * (temperaturaCelsius) + 32;
-    console.log(`A temperatura correspondente em Farenheit é de ${temperaturaFarenheit}°F`);
+    console.log(`A temperatura correspondente em Farenheit é de ${temperaturaFarenheit}°F `);
 };
 
 calcTemperatura();
