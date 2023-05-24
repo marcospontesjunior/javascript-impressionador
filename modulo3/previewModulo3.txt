@@ -1,0 +1,7 @@
+## Módulo 3
+
+### Funções e Escopo
+
+    - O que são funções em JavaScript
+    - Como criar funções em JavaScript
+    - Escopo de variáveis em funções em JavaScript
