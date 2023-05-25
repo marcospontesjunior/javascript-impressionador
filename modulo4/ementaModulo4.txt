@@ -1,0 +1,7 @@
+## Módulo 4
+
+### Lidando com bugs no código
+
+    - O que é o processo de debugging e como ele se apresenta no dia a dia do programador
+    - Monitorando valores intermediários com "console.log"
+    - Ferramentas mais rebuscadas
