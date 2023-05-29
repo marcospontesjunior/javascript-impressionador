@@ -43,6 +43,10 @@
       case 'valor2':
         código que será executado se a segunda condição for verdadeira;
         break;
+      case 'valor3':
+      case 'valor4':
+        instruções associadas aos valores 3 e 4;
+        break;
       .
       .
       .
