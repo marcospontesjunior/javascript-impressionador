@@ -1,0 +1,9 @@
+## Módulo 5
+
+### Condicionais (if/else)
+
+    - O que são condicionais em JavaScript
+    - Como usar condicionais if/else em JavaScript
+    - Operadores de comparação em JavaScript (>, <, >=, <=, ==, ===, !=, !==)
+    - Operadores lógicos em JavaScript (&&,||,!)
+    - Condicionais encadeados e aninhados em JavaScript

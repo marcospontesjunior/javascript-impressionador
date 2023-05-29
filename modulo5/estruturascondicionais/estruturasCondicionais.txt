@@ -1,0 +1,32 @@
+## Estruturas Condicionais
+
+- Estruturas condicionais servem para estabelecer blocos de códigos que apenas devem ser executados
+  caso uma condição definida seja estabelecida.
+
+- if:
+    - palavra do inglês que significa "se". O if é a palavra chave que iremos empregrar quando quisermos
+      criar um bloco condicional. 
+
+      if(condição) {
+        código que será executado se a condição for verdadeira
+      }
+
+- else:
+    - palavra que significa "caso contrário". O else virá sempre após do if, definindo o comportamento
+      que deve ser adotado caso a condição estabelecida não seja atendida.
+
+      } else {
+        código que será executado apenas quando a condição não for verdadeira
+      }
+
+- múltiplas avaliações:
+    - se precisarmos usar múltiplas sucessivas avaliações, podemos fazer o uso da estrutura 
+      "if ... else if ... else" (em português, "se ... caso contrário, se ... caso contrário").
+
+      if(condição) {
+        código que será executado se a condição for verdadeira
+      } else if(condição 2) {
+        código que será executado se a segunda condição for verdadeira
+      } else {
+        código que será executado apenas quando a condição não for verdadeira
+      }
