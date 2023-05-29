@@ -3,7 +3,7 @@ const msgBoasVindas0 = 'Bem vindo(a), torcedor(a) Alvinegro!';
 const msgBoasVindas1 = 'Bem vindo(a), torcedor(a) Cruzmaltino!';
 const msgBoasVindas2 = 'Bem vindo(a), torcedor(a) Tricolor!';
 const msgBoasVindas3 = 'Bem vindo(a), torcedor(a) Rubro-Negro!';
-const msgBoasVindas4 = 'Bem vindo(a), amante do esporte!';
+const msgBoasVindasGeral = 'Bem vindo(a), amante do esporte!';
 
 if (usuario.time === 'Botafogo') {
     console.log(msgBoasVindas0);
@@ -14,7 +14,7 @@ if (usuario.time === 'Botafogo') {
 } else if (usuario.time === 'Flamengo') {
     console.log(msgBoasVindas3);
 } else {
-    console.log(msgBoasVindas4);
+    console.log(msgBoasVindasGeral);
 }
 
 const msgEscolha = 'Clique no setor para qual deseja comprar seu ingresso!';
