@@ -1,0 +1,7 @@
+## Operador Ternário
+
+- Estrutura alternativa (e mais enxuta) para o caso de um bloco condicional if-else.
+    se a situação com a qual lidamos exigir uma simples estrutura de if-else, podemos também
+    optar pelo operador ternário para representar o cenário.
+
+condição booleana ? execute caso verdadeiro : execute caso falso 
