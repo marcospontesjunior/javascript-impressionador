@@ -13,3 +13,12 @@
 
     ATENÇÃO: já que o "Do... While" executa o bloco e depois confere a validez da condição de repetição, então
     signfica que o bloco será executado PELO MENOS 1 vez!
+
+- while:
+  - muito similar ao "do... while", essa é uma estrutura que define um bloco de código a ser executado repetidas
+    vezes. Faz-see uma checagem da "condição de repetição" e, caso essa seja válida, uma iteração do bloco de código
+    é executada. Esse procedimento se repete até que a condição deixe de ser válida.
+
+  while(condição) {
+    código que será executado enquanto a condição for verdadeira
+  }
