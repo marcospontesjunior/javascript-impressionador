@@ -1,0 +1,12 @@
+## Estruturas de Repetição
+
+- Servem para estabelecer blocos de códigos que serão executados várias vezes, até que a sua "condição de
+  repetição" deixe de ser contemplada.
+
+- do ... while:
+    - estrutura que define um bloco de código a ser executado repetidas vezes. ao término de cada iteração, a
+      "condição de repetição" é checada, e caso seja válida, mais uma iteração é executada!
+
+    do {
+        código que será executado enquanto a condição for verdadeira
+    } while (condição)
