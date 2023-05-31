@@ -1,0 +1,10 @@
+## Recursividade
+
+- É uma tecnica de programação que consiste em ter estrutura (uma função, por exemplo) invocando a si mesma.
+  Uma função, por exemplo, pode solicitar outra invocação dela mesma para resolver um problema.
+
+  ex.: function calcularTemperaturaDaRuaHoje(dataDeHoje) {
+           calcularTemperaturaDaRuaHoje(dataDeOntem);
+       }
+
+ATENÇÃO: recursividade não é uma estrutura de repetição, é uma tecnica da programação.
