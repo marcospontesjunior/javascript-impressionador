@@ -13,8 +13,3 @@ te levar ao nível avançado. Você vai aprender os fundamentos básicos, interm
 ### Objetivo Pessoal com o Curso:
 
 Aprender e compreender a sintax da linguagem. 
-
----
-### Me encontre por aqui 👇
-###
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcospontesjunior)
