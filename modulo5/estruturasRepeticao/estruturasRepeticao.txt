@@ -8,7 +8,7 @@
       "condição de repetição" é checada, e caso seja válida, mais uma iteração é executada!
 
     do {
-        código que será executado enquanto a condição for verdadeira
+        código que será executado enquanto a condição for verdadeira;
     } while (condição)
 
     ATENÇÃO: já que o "Do... While" executa o bloco e depois confere a validez da condição de repetição, então
@@ -20,5 +20,20 @@
     é executada. Esse procedimento se repete até que a condição deixe de ser válida.
 
   while(condição) {
-    código que será executado enquanto a condição for verdadeira
+    código que será executado enquanto a condição for verdadeira;
+  }
+
+- for:
+  - a estrutura de repetição for te permite declarar 3 informações iniciais, além do bloco de instruções a ser executado.
+    Elas são:
+
+      - uma declaração inicial, que será estabelecida quando a execução do código chegar pela primeira vez na estrutura de 
+        repetição.
+
+      - a condição para que o bloco de instruções continue sendo repetido.
+
+      - uma operação que será realizada ao fim de cada iteração.
+
+  for(declaração inicial; condição; operação pós iteração) {
+    código que será executado enquanto a condição for verdadeira;
   }
