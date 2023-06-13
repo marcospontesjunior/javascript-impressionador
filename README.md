@@ -2,7 +2,7 @@
 
 ### Sobre:
 
-Repositório de exercícios e conteúdos aprendido no curso JavaScript Impressionador!
+Repositório de exercícios e conteúdos aprendido.
 
 ### Proposta e Objetivo do Curso:
 
