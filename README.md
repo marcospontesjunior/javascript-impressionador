@@ -4,7 +4,7 @@
 
 Repositório de exercícios e conteúdos aprendido.
 
-### Proposta e Objetivo do Curso:
+### Proposta e Objetivo:
 
 Treinamento completo, onde irá aprender tudo que precisa saber de JavaScript, começando do 
 absoluto zero até te levar ao nível avançado. Aprenderá os fundamentos básicos, intermediários e avançados.
